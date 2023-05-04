@@ -1,2 +1,5 @@
 # testing2GitHub
-This is a line
+Testing GitHub for Champlain College Class
+<p>This is first Line</p>
+<br>
+<p>This is second Line</p>
